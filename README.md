@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aishwary Shukla
+# 👋 Hi, I'm Aishwarya Shukla
 
 **Freelancer / Independent Contractor**  
 - 🧠 AI/ML Engineer  
