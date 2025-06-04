@@ -1,18 +1,26 @@
-# Hi there, I'm Aishwary 👋
+# 👋 Hi, I'm Aishwary Shukla
 
 **Freelancer / Independent Contractor**  
 - 🧠 AI/ML Engineer  
-- 🌐 Full-Stack SaaS Engineer  
-- 🎮 UE5 Game Developer  
-- ⚙️ Systems Programmer (C++, Zig)
+- 🌐 Full-Stack SaaS Developer  
+- 🎮 Unreal Engine 5 Game Developer  
+- 🎨 Graphics & Rendering Engineer  
+- ⚙️ Systems Programmer (C++, Zig – OS-level utilities & tools)
 
 ---
 
-🔧 Currently building intelligent tools for games, SaaS, and real-time systems.  
-💼 Open to freelance work and collaborations.  
+Currently building intelligent tools and graphical experiences across the web, desktop, and game engines.
+
+💼 Open to freelance and contract work  
 🌐 Portfolio: [ashukla.dev](https://ashukla.dev)
 
 ---
 
-## 📌 Pinned Projects
-<!-- You can pin your best projects directly from your GitHub UI -->
+## 🔧 Tech Stack
+`Python` • `FastAPI` • `React.js` • `Tailwind CSS`  
+`Unreal Engine 5` • `Blueprint` • `C++`  
+`Zig` • `OpenGL/Vulkan` • `Git` • `Linux`
+
+---
+
+## 📌 Highlight Projects
