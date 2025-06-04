@@ -11,7 +11,8 @@ Now focused on building real-world, full-stack AI tools.
 
 Currently building intelligent tools and graphical experiences across the web, desktop, and game engines.
 
-**Open to freelance and contract work ** 
+**Open to freelance and contract work** 
+
 🌐 Portfolio: [ashukla.dev](https://ashukla.dev)
 💼 hire@ashukla.dev — for hiring or freelance opportunities
 ✉️ you@ashukla.dev — for consulting, questions, or just saying hi!
