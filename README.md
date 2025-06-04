@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Aishwarya Shukla
 
 **Freelancer / Independent Contractor**  
-- 🧠 AI/ML Engineer  
+- 🧠 AI Prompt Engineer  
 - 🌐 Full-Stack SaaS Developer  
-- 🎮 Unreal Engine 5 Game Developer  
-- 🎨 Graphics & Rendering Engineer  
-- ⚙️ Systems Programmer (C++, Zig – OS-level utilities & tools)
+- 🎮 Unreal Engine 5 Mobile Game Developer  
+- 🎨 Graphics & Rendering Engineer (C++, Zig)
 
 ---
 
