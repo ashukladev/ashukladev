@@ -5,8 +5,8 @@
 Former systems and graphics programmer with 14 years of professional experience — including work for Netflix, DreamWorks, Disney, and more.  
 Now focused on building real-world, full-stack AI tools.
 
-- 🧠 AI Prompt Engineer  
-- 🌐 Full-Stack SaaS Developer (React, Next.js, Tailwind CSS, FastAPI, Python, SQL)
+- 🧠 Godot Game Developer
+- 🌐 Full-Stack SaaS Developer (React, Next.js, Tailwind CSS, FastAPI, Python, PostgreS, React native)
 
 ---  
 **Open to freelance and contract work** 
