@@ -18,9 +18,9 @@ Now focused on building real-world, full-stack AI tools.
 ---
 
 ## 🔧 Tech Stack
-`Python` • `FastAPI` • `React.js` • `Tailwind CSS`  
-`Unreal Engine 5` • `Blueprint` • `C++`  
-`Rust` • `OpenGL/Vulkan` • `Git` • `Linux`
+`Python` • `FastAPI` • `React.js / React Native` • `Tailwind CSS`  
+`Godot` • `Blueprint` • `C++`  
+`PostgreS` • `GDscript` • `Git` • `Linux`
 
 ---
 
