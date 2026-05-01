@@ -5,7 +5,6 @@
 Former systems and graphics programmer with 14 years of professional experience — including work for Netflix, DreamWorks, Disney, and more.  
 Now focused on building real-world, full-stack AI tools.
 
-- 🧠 Godot Game Developer
 - 🌐 Full-Stack SaaS Developer (React, Next.js, Tailwind CSS, FastAPI, Python, PostgreS, React native)
 
 ---  
@@ -19,8 +18,7 @@ Now focused on building real-world, full-stack AI tools.
 
 ## 🔧 Tech Stack
 `Python` • `FastAPI` • `React.js / React Native` • `Tailwind CSS`  
-`Godot` • `Blueprint` • `C++`  
-`PostgreS` • `GDscript` • `Git` • `Linux`
+`PostgreS`
 
 ---
 
